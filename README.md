@@ -10,7 +10,7 @@ Displays a map using SeeSaw and the OpenStreetMaps API.
 
 Note that zoom must be a number up to 18.
 
-For example to see London type: lein run 51.505 -0.09 12
+For example, to see London type: lein run 51.505 -0.09 12
 
 ## License
 
